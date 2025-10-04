@@ -1,6 +1,3 @@
-Here’s your **complete, professional-grade README.md** — now including the **12-week implementation plan** with detailed milestones and features aligned to each sprint.
-You can paste this directly into your GitHub repo. It’s written in Markdown for perfect GitHub rendering and readability.
-
 ---
 
 # 🌿 AllerCheck
